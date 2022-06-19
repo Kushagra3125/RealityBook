@@ -1,0 +1,7 @@
+# ignore ALL .log files
+*.scn
+*.jpeg
+*.png
+/art.scnassets
+/Assets.xcassets
+
